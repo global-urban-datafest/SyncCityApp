@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SyncCity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">About</string>
+    <string name="default_username">John</string>
+    <string name="action_john">John</string>
+    <string name="action_merlin">Merlin</string>
+    <string name="about">App created by Sync City Team</string>
+	<string name="default_part">All Day</string>
+	<string name="load_route">Load Route</string>
+	<string name="all_day">All Day</string>
+	<string name="morning">Morning</string>
+	<string name="evening">Evening</string>
+</resources>
